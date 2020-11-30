@@ -1,0 +1,100 @@
+[
+    {
+        "type": "present",
+        "titre": "Le monde de l'informatique",
+        "style":"font-size:20px;color:#273746",
+        "groupe": ["Chakor, Rachid", "Gauthier, Éric", "Proulx, Gabriel", "Sasaki Tubosaka Dutr, Neila"],
+        "mp4": "https://drive.google.com/file/d/1NzkM9cqG2P1YugHJkJb6eZLttdO5wAXI/view?usp=sharing"
+    },
+    {
+        "type": "present",
+        "titre": "La recherche d'information",
+        "style":"font-size:20px;color:#273746",
+        "groupe": ["Gerges, Mina Loutfi Adel Tawfeek", "Gervais, Patrick"],
+        "mp4": "https://drive.google.com/file/d/1NzkM9cqG2P1YugHJkJb6eZLttdO5wAXI/view?usp=sharing"
+    },
+    {
+        "type": "present",
+        "titre": "L'évaluation des intérêts, des aptitudes personnelles et de l'employabilité",
+        "style":"font-size:20px;color:#273746",
+        "groupe": ["Francis, Antoine", "Ponce, Donovan", "Ferlatte, Pascal"],
+        "mp4": ""
+    },
+    {
+        "type": "present",
+        "titre": "Le programmeur-analyste en informatique",
+        "style":"font-size:20px;color:#273746",
+        "groupe": ["Bouchard, Stéphane", "Castro Barreto, Elkin Giovanni", "Perre, Thomas", "Sabih, Zouhair"],
+        "mp4": ""
+    },
+    {
+        "type": "present",
+        "titre": "Le gestionnaire de réseaux informatiques",
+        "style":"font-size:20px;color:#273746",
+        "groupe": ["Bouriel, Marouane", "Drag, Khalid", "Baz, Messaoud"],
+        "mp4": ""
+    },
+    {
+        "type": "present",
+        "titre": "L'exercice de la profession et le marché du travail",
+        "style":"font-size:20px;color:#273746",
+        "groupe": ["Ould Braham, Samir", "Doukkali Al-Amajidi, Nawfal"],
+        "mp4": ""
+    },
+    {
+        "type": "techno",
+        "titre": "Hébergement d’un site Web",
+        "style":"font-size:20px;color:#273746",
+        "mp4": "https://drive.google.com/file/d/1mu06pjTqrCg9disCZETXUVjdePIVBobu/view?usp=sharing"
+    },
+    {
+        "type": "techno",
+        "titre": "Infonuagique (Cloud) et virtualisation",
+        "style":"font-size:20px;color:#273746",
+        "mp4": "https://drive.google.com/file/d/1mu06pjTqrCg9disCZETXUVjdePIVBobu/view?usp=sharing"
+    },
+    {
+        "type": "techno",
+        "titre": "CMS Web",
+        "style":"font-size:20px;color:#273746",
+        "mp4": "https://drive.google.com/file/d/1mu06pjTqrCg9disCZETXUVjdePIVBobu/view?usp=sharing"
+    },
+    {
+        "type": "techno",
+        "titre": "Serveurs de bases données SQL, NoSQL",
+        "style":"font-size:20px;color:#273746",
+        "mp4": "https://drive.google.com/file/d/1mu06pjTqrCg9disCZETXUVjdePIVBobu/view?usp=sharing"
+    },
+    {
+        "type": "office",
+        "titre": "Traitement de textes – mise en forme",
+        "style":"font-size:20px;color:#273746",
+        "cours": "https://drive.google.com/file/d/1FRBSAEzCUL3NMXlXrKfaM1GRULgFjsb1/view?usp=sharing",
+        "atelier": "https://drive.google.com/drive/folders/1V8dwd-rYoFZae7NUwSybWq00DcH88rTt?usp=sharing",
+        "mp4": "https://drive.google.com/file/d/1ny15N_G5OpG6rQz6_3A9JmskLc79TUMP/view?usp=sharing"
+    },
+    {
+        "type": "office",
+        "titre": "Traitement de – textes – sections – génération automatique",
+        "style":"font-size:20px;color:#273746",
+        "cours": "https://drive.google.com/file/d/1FRBSAEzCUL3NMXlXrKfaM1GRULgFjsb1/view?usp=sharing",
+        "atelier": "https://drive.google.com/drive/folders/1V8dwd-rYoFZae7NUwSybWq00DcH88rTt?usp=sharing",
+        "mp4": ""
+    },
+    {
+        "type": "office",
+        "titre": "Chiffrier électronique – fonctions mathématiques et statistiques",
+        "style":"font-size:20px;color:#273746",
+        "cours": "",
+        "atelier": "",
+        "mp4": ""
+    },
+    {
+        "type": "office",
+        "titre": "Traitement de textes – publipostage",
+        "style":"font-size:20px;color:#273746",
+        "cours": "",
+        "atelier": "",
+        "mp4": ""
+    }
+]
